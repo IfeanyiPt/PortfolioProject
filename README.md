@@ -1,9 +1,13 @@
-# COVID-19 Data Exploration 
+# My Portfolio Projects
 
-This project explores COVID-19 data from January 2020 to January 2023. I performed SQL queries to answers questions abouts COVID deaths and Vaccine .After performing the first set of queries to answer my questions , I created another set to perform my visualization in Tableau. Take a look at my tableau dashboard [here](https://public.tableau.com/app/profile/johnbenson)
+Here I have all the code written in SQL Server and also my Excel projects. 
 
-![alt text](https://github.com/IfyBenson/PortfolioProject/blob/main/coronavirus.png)
+[Portfolio Website](https://ifybenson.carrd.co/)
 
-## Source
-[Alex the Analyst](https://github.com/AlexTheAnalyst)
+## Skills I'm proficent in :
 
+Excel, SQL, Tableau, Word .
+
+Excel: filtering, sorting, cleaning, conditional formatting, XLOOKUP, VLOOKUP, formulas and functions, Pivot Tables, charts and dashboards
+
+SQL: MySQL, Microsoft SQL Server (SSMS), DDL, DML, TCL, aggregate functions, JOINS
