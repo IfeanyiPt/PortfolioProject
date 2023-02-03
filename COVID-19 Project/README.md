@@ -2,7 +2,7 @@
 This project explores COVID-19 data from ending 2020 to January 2023. I used a combination of basic to advanced queries to analyze this dataset.
 This dataset is from [Our Word in Data](https://ourworldindata.org/)
 
-![alt text](https://github.com/IfyBenson/PortfolioProject/blob/main/coronavirus.png)
+![alt text](https://github.com/IfyBenson/PortfolioProject/blob/main/COVID-19%20Project/coronavirus.png)
 
 ## Key Findings
 * As of 01/07/2023 , there are 662,415,626 cases and 6,667,623 deaths. The global death percentage is 1.01%.
